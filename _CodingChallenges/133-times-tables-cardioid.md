@@ -50,6 +50,12 @@ contributions:
       url: "https://nielsvadot.design/"
     url: "https://nielsvadot.design/projects/modular-multiplication-table/"
     source: "https://codepen.io/ninivert/pen/WXjMjZ"
+      - title: "Playing with cardioids"
+    author:
+      name: "Eugeni Soler"
+      url: "https://github.com/EuGenius23"
+    url: "https://editor.p5js.org/Genius/present/GIvWpayC8"
+    source: "https://editor.p5js.org/Genius/sketches/GIvWpayC8"
 ---
 
 In this video, I visualize the "mathematical heart" Cardioid using times tables calculations.
